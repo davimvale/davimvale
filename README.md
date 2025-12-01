@@ -2,7 +2,7 @@
 
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
-Me chamo Davi Moreira Vale, tenho 21 anos e nasci em Minas Gerais. Atualmente estou cursando Análise e Desenvolvimentos de Sistemas pela Unigranrio. Sou um amante de tecnológia e estou sempre aprendendo e aprimorando meus conhecimentos sobre programação. 
+Me chamo Davi Moreira Vale, tenho 21 anos e sou de Minas Gerais. Atualmente curso Análise e Desenvolvimento de Sistemas pela Unigranrio e sigo construindo minha trajetória na área de tecnologia. Gosto de aprender coisas novas, desenvolver projetos e explorar ferramentas que me ajudem a evoluir como desenvolvedor. Estou sempre buscando aprimorar minhas habilidades para crescer na carreira e entregar soluções cada vez melhores. 
 
 <p align="left">
     <a href="https://github.com/davimvale?tab=repositories&sort=stargazers">
