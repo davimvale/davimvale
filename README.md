@@ -3,8 +3,11 @@
 **`Estudante de Análise e Desenvolvimento de Sistemas`**
 
 Sou Davi Moreira Vale (21), de Minas Gerais.
+
 Atualmente, estou cursando Análise e Desenvolvimento de Sistemas (Unigranrio), focado em transformar desafios em soluções eficientes. Movido por café e pão de queijo
+
 Minha rotina é de aprendizado contínuo, aprimorando meu stack em programação e tecnologia. Quando um bug aparece, encaro como um desafio de lógica e não paro até ter sucesso.
+
 Em resumo: um profissional em formação que adora tecnologia e sabe fazer um bom uso do Ctrl+Z quando necessário. 😉
 <p align="left">
     <a href="https://github.com/davimvale?tab=repositories&sort=stargazers">
